@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MirzaMohammadBaig
-- 👀 I’m interested in learing programming languages like java, js etc.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on basic java applications.
+
 - 📫 email: mirzabaig.n321@gmail.com
 
 <!---
